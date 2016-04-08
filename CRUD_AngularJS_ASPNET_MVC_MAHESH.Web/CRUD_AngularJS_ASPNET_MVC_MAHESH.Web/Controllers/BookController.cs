@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Web.Mvc;
+using CRUD_AngularJS_ASPNET_MVC_MAHESH.Core.Domain;
 using CRUD_AngularJS_ASPNET_MVC_MAHESH.Core.Repositories.Interfaces;
 
 namespace CRUD_AngularJS_ASPNET_MVC_MAHESH.Web.Controllers
@@ -13,82 +14,45 @@ namespace CRUD_AngularJS_ASPNET_MVC_MAHESH.Web.Controllers
             _bookRepository = bookRepository;
         }
 
-        // GET: Book
         public ActionResult Index()
         {
             return View();
         }
 
-        // GET: Book/Details/5
-        public ActionResult Details(int id)
+        public JsonResult GetAllBooks()
         {
-            return View();
+            var books = _bookRepository.GetAllBooks();
+            return Json(books, JsonRequestBehavior.AllowGet);
         }
 
-        // GET: Book/Create
-        public ActionResult Create()
+        public JsonResult GetBookById(string id)
         {
-            return View();
+            var bookid = Convert.ToInt32(id);
+            var book = _bookRepository.GetBook(bookid);
+            return Json(book, JsonRequestBehavior.AllowGet);
         }
 
-        // POST: Book/Create
-        [HttpPost]
-        public ActionResult Create(FormCollection collection)
+        public string SaveBook(Book book)
         {
+            if (book == null) return "Invalid book record";
+            _bookRepository.Save(book);
+            return "Book record added successfully";
+        }
+
+        public string DeleteBook(string bookId)
+        {
+            if (string.IsNullOrEmpty(bookId)) return "Invalid operation";
+            var _bookId = Int32.Parse(bookId);
             try
             {
-                // TODO: Add insert logic here
-
-                return RedirectToAction("Index");
+                _bookRepository.Delete(_bookId);
             }
-            catch
+            catch (Exception)
             {
-                return View();
+                return "Book details not found";
             }
+            return "Invalid operation";
         }
 
-        // GET: Book/Edit/5
-        public ActionResult Edit(int id)
-        {
-            return View();
-        }
-
-        // POST: Book/Edit/5
-        [HttpPost]
-        public ActionResult Edit(int id, FormCollection collection)
-        {
-            try
-            {
-                // TODO: Add update logic here
-
-                return RedirectToAction("Index");
-            }
-            catch
-            {
-                return View();
-            }
-        }
-
-        // GET: Book/Delete/5
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
-
-        // POST: Book/Delete/5
-        [HttpPost]
-        public ActionResult Delete(int id, FormCollection collection)
-        {
-            try
-            {
-                // TODO: Add delete logic here
-
-                return RedirectToAction("Index");
-            }
-            catch
-            {
-                return View();
-            }
-        }
     }
 }
