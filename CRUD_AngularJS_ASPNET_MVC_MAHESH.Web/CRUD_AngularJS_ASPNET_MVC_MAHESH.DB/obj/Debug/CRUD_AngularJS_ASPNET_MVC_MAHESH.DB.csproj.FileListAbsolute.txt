@@ -1,0 +1,12 @@
+c:\users\mahesh\documents\visual studio 2015\Projects\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\bin\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB.dll.config
+c:\users\mahesh\documents\visual studio 2015\Projects\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\bin\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB.dll
+c:\users\mahesh\documents\visual studio 2015\Projects\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\bin\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB.pdb
+c:\users\mahesh\documents\visual studio 2015\Projects\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\bin\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.Core.dll
+c:\users\mahesh\documents\visual studio 2015\Projects\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\bin\Debug\EntityFramework.dll
+c:\users\mahesh\documents\visual studio 2015\Projects\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\mahesh\documents\visual studio 2015\Projects\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\bin\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.Core.pdb
+c:\users\mahesh\documents\visual studio 2015\Projects\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\bin\Debug\EntityFramework.xml
+c:\users\mahesh\documents\visual studio 2015\Projects\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\mahesh\documents\visual studio 2015\Projects\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\obj\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB.csprojResolveAssemblyReference.cache
+c:\users\mahesh\documents\visual studio 2015\Projects\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\obj\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB.dll
+c:\users\mahesh\documents\visual studio 2015\Projects\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\obj\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB.pdb

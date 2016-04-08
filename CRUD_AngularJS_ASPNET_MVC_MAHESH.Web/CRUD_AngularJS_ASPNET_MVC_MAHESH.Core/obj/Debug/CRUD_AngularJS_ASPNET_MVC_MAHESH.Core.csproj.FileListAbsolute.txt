@@ -1,0 +1,4 @@
+c:\users\mahesh\documents\visual studio 2015\Projects\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.Core\bin\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.Core.dll
+c:\users\mahesh\documents\visual studio 2015\Projects\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.Core\bin\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.Core.pdb
+c:\users\mahesh\documents\visual studio 2015\Projects\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.Core\obj\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.Core.dll
+c:\users\mahesh\documents\visual studio 2015\Projects\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.Core\obj\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.Core.pdb
