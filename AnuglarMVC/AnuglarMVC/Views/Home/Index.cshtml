@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@section scripts{
+    <script src="~/APP/StudentClient.js">
+</script>
+}
+<div ng-app="StudentApp" class="container">
+    <br />
+    <br />
+    <input type="text" placeholder="Search Student" ng-model="searchStudent" />
+    <br />
+    <div ng-controller="StudentController">
+
+        <table class="table">
+
+            <tr ng-repeat="r in students | filter : searchStudent">
+                <td>
+                    {{r.FirstName}}
+                </td>
+                <td>
+                    {{r.LastName}}
+                </td>
+                <td>
+                    {{r.IdNumber}}
+                </td>
+                <td>
+                    {{r.Email}}
+                </td>
+                 </tr>
+           </table>
+             </div>
+</div>

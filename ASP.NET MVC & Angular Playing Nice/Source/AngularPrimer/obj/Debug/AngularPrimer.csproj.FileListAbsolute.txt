@@ -1,0 +1,5 @@
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularPrimer\bin\AngularPrimer.dll
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularPrimer\bin\AngularPrimer.pdb
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularPrimer\obj\Debug\AngularPrimer.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularPrimer\obj\Debug\AngularPrimer.dll
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularPrimer\obj\Debug\AngularPrimer.pdb

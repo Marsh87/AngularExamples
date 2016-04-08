@@ -1,0 +1,165 @@
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\AnuglarMVC.dll.config
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\AnuglarMVC.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\AnuglarMVC.pdb
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Antlr3.Runtime.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\EntityFramework.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\EntityFramework.SqlServer.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Google.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Newtonsoft.Json.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Owin.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\System.Web.Helpers.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\System.Web.Mvc.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\System.Web.Optimization.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\System.Web.Razor.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\System.Web.WebPages.Deployment.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\System.Web.WebPages.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\System.Web.WebPages.Razor.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\WebGrease.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\System.Web.Helpers.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\System.Web.Mvc.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\System.Web.Optimization.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\System.Web.Razor.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\System.Web.WebPages.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\System.Web.WebPages.Deployment.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\System.Web.WebPages.Razor.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Antlr3.Runtime.pdb
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Newtonsoft.Json.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\EntityFramework.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\EntityFramework.SqlServer.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Google.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\obj\Debug\AnuglarMVC.csprojResolveAssemblyReference.cache
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\obj\Debug\AnuglarMVC.dll
+c:\users\mahesh\documents\visual studio 2013\Projects\AnuglarMVC\AnuglarMVC\obj\Debug\AnuglarMVC.pdb
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\AnuglarMVC.dll.config
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\AnuglarMVC.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\AnuglarMVC.pdb
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Antlr3.Runtime.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\EntityFramework.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Newtonsoft.Json.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Owin.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\System.Web.Helpers.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\System.Web.Mvc.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\System.Web.Optimization.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\System.Web.Razor.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\System.Web.WebPages.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\WebGrease.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\System.Web.Helpers.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\System.Web.Mvc.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\System.Web.Optimization.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\System.Web.Razor.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\System.Web.WebPages.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Antlr3.Runtime.pdb
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Newtonsoft.Json.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\EntityFramework.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\obj\Debug\AnuglarMVC.csprojResolveAssemblyReference.cache
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\obj\Debug\AnuglarMVC.dll
+C:\Users\mahesh\Desktop\AnuglarMVC\AnuglarMVC\obj\Debug\AnuglarMVC.pdb
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\AnuglarMVC.dll.config
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\AnuglarMVC.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\AnuglarMVC.pdb
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Antlr3.Runtime.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\EntityFramework.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Newtonsoft.Json.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Owin.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\System.Web.Helpers.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\System.Web.Mvc.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\System.Web.Optimization.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\System.Web.Razor.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\System.Web.WebPages.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\WebGrease.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\System.Web.Helpers.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\System.Web.Mvc.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\System.Web.Optimization.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\System.Web.Razor.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\System.Web.WebPages.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Antlr3.Runtime.pdb
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Newtonsoft.Json.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\EntityFramework.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\obj\Debug\AnuglarMVC.csprojResolveAssemblyReference.cache
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\obj\Debug\AnuglarMVC.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\AnuglarMVC\AnuglarMVC\obj\Debug\AnuglarMVC.pdb

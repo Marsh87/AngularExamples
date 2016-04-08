@@ -1,0 +1,10 @@
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularRouting\bin\AngularRouting.dll
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularRouting\bin\AngularRouting.pdb
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularRouting\obj\Debug\AngularRouting.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularRouting\obj\Debug\AngularRouting.dll
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularRouting\obj\Debug\AngularRouting.pdb
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularRouting\bin\AngularRouting.dll
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularRouting\bin\AngularRouting.pdb
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularRouting\obj\Debug\AngularRouting.csprojResolveAssemblyReference.cache
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularRouting\obj\Debug\AngularRouting.dll
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularRouting\obj\Debug\AngularRouting.pdb

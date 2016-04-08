@@ -1,0 +1,5 @@
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\MultipleShells\bin\MultipleShells.dll
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\MultipleShells\bin\MultipleShells.pdb
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\MultipleShells\obj\Debug\MultipleShells.csprojResolveAssemblyReference.cache
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\MultipleShells\obj\Debug\MultipleShells.dll
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\MultipleShells\obj\Debug\MultipleShells.pdb
