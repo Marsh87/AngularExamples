@@ -1,12 +1,12 @@
-﻿app.controller("bookController", function($scope, bookService) {
-    $scope.divBook = false;
+﻿app.controller("bookController", function($scope, bookService) {    
     GetAllBooks();
+    //To Get all book records  
     function GetAllBooks() {
-        debugger;
+        //debugger;
         var getBookData = bookService.getBooks();
-        getBookData.then(function(book) {
+        getBookData.then(function (book) {
             $scope.books = book.data;
-        }, function() {
+        }, function () {
             alert('Error in getting book records');
         });
     }
@@ -19,7 +19,7 @@
                 $scope.bookTitle = book.Title;
                 $scope.bookAuthor = book.Author;
                 $scope.bookPublisher = book.Publisher;
-                $scope.bookIsbn = book.Isbn;
+                $scope.bookIsbn = book.Ibsn;
                 $scope.Action = "Update";
                 $scope.divBook = true;
             },
@@ -27,7 +27,59 @@
                 alert('Error in getting book records');
             });
     }
+    $scope.AddUpdateBook=function() {
+        var Book = {
+            Id:$scope.bookId,
+            Title:$scope.bookTitle,
+            Author:$scope.bookAuthor,
+            Publisher:$scope.bookPublisher,
+            Ibsn:$scope.bookIsbn
+        };
+        var getBookAction = $.Action;
+        if (getBookAction == "Update") {
+            Book.Id = $scope.bookId;
+            var getBookData = bookService.saveBook(Book);
+            getBookData.then(function(msg) {
+                GetAllBooks();
+                alert(msg.data);
+                $scope.divBook = false;
+            }, function() {
+                alert('Error in updating book record');
+            });
+        } else {
+            var getBookData = bookService.saveBook(Book);
+            getBookData.then(function(msg) {
+                GetAllBooks();
+                alert(msg.data);
+                $scope.divBook = false;
+            }, function () {
+                alert('Error in adding book record');
+            });
+        }
+    }
+    $scope.AddBookDiv=function() {
+        ClearFields();
+        $scope.Action = "Add";
+        $scope.divBook = true;
+    }
+    $scope.deleteBook=function(book) {
+        var getBookData = bookService.DeleteBook(book.Id);
+        getBookData.then(function(msg) {
+            alert(msg.data);
+           GetAllBooks();
+        },function() {
+            alert('Error in deleting book record');
+        });
+    }
 
-
-
+    function ClearFields() {
+        $scope.bookId = "";
+        $scope.bookTitle = "";
+        $scope.bookAuthor = "";
+        $scope.bookPublisher = "";
+        $scope.bookIsbn = "";
+    }
+    $scope.Cancel=function() {
+        $scope.divBook = false;
+    } 
 });

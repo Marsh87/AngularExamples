@@ -1,5 +1,4 @@
-﻿using System.Web;
-using System.Web.Optimization;
+﻿using System.Web.Optimization;
 
 namespace CRUD_AngularJS_ASPNET_MVC_MAHESH.Web
 {

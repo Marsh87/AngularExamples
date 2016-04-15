@@ -23,6 +23,7 @@ namespace CRUD_AngularJS_ASPNET_MVC_MAHESH.DB.Repositories
             {
                 Map(book, entity);
             }
+            else                           
             {
                 _libraryContext.Books.Add(book); 
             }

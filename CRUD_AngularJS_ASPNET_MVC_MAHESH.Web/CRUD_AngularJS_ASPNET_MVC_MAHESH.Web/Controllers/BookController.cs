@@ -10,7 +10,7 @@ namespace CRUD_AngularJS_ASPNET_MVC_MAHESH.Web.Controllers
         private readonly IBookRepository _bookRepository;
         public BookController(IBookRepository bookRepository)
         {
-           if (bookRepository == null) throw new ArgumentNullException(nameof(bookRepository));
+            if (bookRepository == null) throw new ArgumentNullException(nameof(bookRepository));
             _bookRepository = bookRepository;
         }
 
@@ -32,11 +32,11 @@ namespace CRUD_AngularJS_ASPNET_MVC_MAHESH.Web.Controllers
             return Json(book, JsonRequestBehavior.AllowGet);
         }
 
-        public string SaveBook(Book book)
+        public string Save(Book book)
         {
             if (book == null) return "Invalid book record";
             _bookRepository.Save(book);
-            return "Book record added successfully";
+            return book.Id == 0 ? "Book record added successfully" : "Book record was updated";
         }
 
         public string DeleteBook(string bookId)
@@ -51,8 +51,7 @@ namespace CRUD_AngularJS_ASPNET_MVC_MAHESH.Web.Controllers
             {
                 return "Book details not found";
             }
-            return "Invalid operation";
+            return "Book has been deleted";
         }
-
     }
 }

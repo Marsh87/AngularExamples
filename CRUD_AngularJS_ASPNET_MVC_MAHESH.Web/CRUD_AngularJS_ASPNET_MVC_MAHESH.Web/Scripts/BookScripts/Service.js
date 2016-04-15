@@ -1,34 +1,37 @@
 ﻿app.service("bookService",function($http) {
     this.getBooks = function() {
-        return $http.get("Home/GetAllBooks");
+        return $http.get("/Book/GetAllBooks");
     };
 
     this.getBook=function(bookId) {
         var response = $http({
             method: "post",
-            url: "Home/GetBookById",
+            url: "/Book/GetBookById",
             params: {
                 id:JSON.stringify(bookId)
             }
         });
+        return response;
     }
 
     this.saveBook=function(book) {
         var response = $http({
             method: "post",
-            url: "Home/Save",
+            url: "/Book/Save",
             data: JSON.stringify(book),
             datatype:"json"
         });
+        return response;
     }
 
     this.DeleteBook=function(bookId) {
         var response = $http({
             method: "post",
-            url: "Home/DeleteBook",
+            url: "/Book/DeleteBook",
             params: {
                 bookid:JSON.stringify(bookId)
             }
         });
+        return response;
     }
 });

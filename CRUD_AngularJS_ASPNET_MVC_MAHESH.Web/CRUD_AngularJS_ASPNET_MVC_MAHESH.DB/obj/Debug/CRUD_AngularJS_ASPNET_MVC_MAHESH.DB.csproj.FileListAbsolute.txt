@@ -10,3 +10,15 @@ c:\users\mahesh\documents\visual studio 2015\Projects\CRUD_AngularJS_ASPNET_MVC_
 c:\users\mahesh\documents\visual studio 2015\Projects\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\obj\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB.csprojResolveAssemblyReference.cache
 c:\users\mahesh\documents\visual studio 2015\Projects\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\obj\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB.dll
 c:\users\mahesh\documents\visual studio 2015\Projects\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\obj\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB.pdb
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\bin\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB.dll.config
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\bin\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\bin\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB.pdb
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\bin\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.Core.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\bin\Debug\EntityFramework.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\bin\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.Core.pdb
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\bin\Debug\EntityFramework.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\obj\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB.csprojResolveAssemblyReference.cache
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\obj\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB.dll
+C:\Users\mahesh\Desktop\DevStuff\AngularStuff\CRUD_AngularJS_ASPNET_MVC_MAHESH.Web\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB\obj\Debug\CRUD_AngularJS_ASPNET_MVC_MAHESH.DB.pdb
